@@ -41,6 +41,40 @@ section{
 .ektu-boro{
     font-size: 44px;
 }
-.center-a-dibo{
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.no-dec{
+    text-decoration: none; 
+}
+.experience-highlighter{
+    color: orange;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 4px;
+    height: 50%;
+    background-color: white;
+}
+
+.exp-zone{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left 220px;
+}
+#full-stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(#E6AF2E, #FFFD82);
+    border-image-slice: 1;
+
+}
+#baby-dev{
+    border-left: 10px solid;
+    border-image: linear-gradient(#006EB7, #FFFBFF);
+    border-image-slice: 1;
+}
+footer p{
     text-align: center;
 }
